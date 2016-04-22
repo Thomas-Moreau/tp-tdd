@@ -17,7 +17,7 @@
 * MATHON	ANTHONY :
 * MEFTOUH	RIAD : https://github.com/MeftouhRiad/TDDGitRepository.git
 * MEULEMAN	REMI : https://github.com/RemiMeuleman/ChiffreRomain.git
-* MOREAU	THOMAS :
+* MOREAU	THOMAS : https://github.com/Thomas-Moreau/RomanNumerals.git
 * PHILIPPART	JÉRÔME :
 * REGNIER	KÉVIN :
 * SLOWINSKI	DYLAN : https://github.com/slowinsd/TDD.git
