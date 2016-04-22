@@ -3,7 +3,7 @@
 * Nom prénom : url
 * BLASZKOWSKI :
 * BRISSET	ADRIEN :
-* DEVASSINE	ALEXANDRE : https://github.com/devassia/TDD.git
+* DEVASSINE	ALEXANDRE :
 * GRANDJEAN	SYLVAIN :
 * GREMBER	MAXIME :
 * GUIOT	CLÉMENT :
@@ -17,7 +17,7 @@
 * MATHON	ANTHONY :
 * MEFTOUH	RIAD : https://github.com/MeftouhRiad/TDDGitRepository.git
 * MEULEMAN	REMI :
-* MOREAU	THOMAS :
+* MOREAU	THOMAS : https://github.com/Thomas-Moreau/RomanNumerals.git
 * PHILIPPART	JÉRÔME :
 * REGNIER	KÉVIN :
 * SLOWINSKI	DYLAN :
